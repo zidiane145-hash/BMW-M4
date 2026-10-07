@@ -1,0 +1,6 @@
+{
+  "name": "Apex Motors Luxury Showroom",
+  "description": "High-end luxury vehicle showroom featuring the latest Mercedes and BMW models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
